@@ -1,0 +1,12 @@
+.bg-myPurple{
+  background-color: #7552FF;
+}
+
+.nav-link{
+  font-family: 'Roboto', sans-serif;
+  color: white !important;
+}
+
+.navbar-btn{
+  border-color: white;
+}
